@@ -1,3 +1,3 @@
 # hello-world
-I am following a tutorial
+我自己尝试一下下。
 Hello world!
